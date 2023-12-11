@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "employees": [
+    {
+      "name": "Gomathi V",
+      "salary": "12000",
+      "designation": "Manager",
+      "id": 1
+    },
+    {
+      "name": "Gokulan",
+      "salary": "80000",
+      "designation": "Doctor",
+      "id": 2
+    },
+    {
+      "name": "Nalan",
+      "salary": "60000",
+      "designation": "Salesman",
+      "id": 3
+    },
+    {
+      "name": "Ruthvika",
+      "salary": "15000",
+      "designation": "Salesman",
+      "id": 4
+    },
+    {
+      "name": "Ranjith",
+      "salary": "25000",
+      "designation": "Developer",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "gomathi",
+      "email": "gomathi162@gmail.com",
+      "password": "gom@123",
+      "id": 1
+    },
+    {
+      "name": "Gokulan",
+      "email": "gokulankap04@gmail.com",
+      "password": "gok@123",
+      "id": 2
+    },
+    {
+      "name": "Nalan",
+      "email": "ranjithvasu0911@gmail.com",
+      "password": "nal@123",
+      "id": 3
+    },
+    {
+      "name": "Ruthvika",
+      "email": "ruthu@gmail.com",
+      "password": "rut@123",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
