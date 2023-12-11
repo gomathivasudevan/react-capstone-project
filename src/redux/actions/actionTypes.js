@@ -1,0 +1,7 @@
+export const GET_EMPLOYEES = 'GET_EMPLOYEES'
+export const DELETE_EMPLOYEE = 'DELETE_EMPLOYEE'
+export const GET_EMPLOYEE = 'GET_EMPLOYEE'
+
+export const GET_USERS = 'GET_USERS'
+export const LOGGEDIN_USER = 'LOGEDIN_USER'
+export const LOGOUT_USER = 'LOGOUT_USER'

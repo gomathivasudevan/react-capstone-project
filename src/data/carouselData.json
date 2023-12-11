@@ -1,0 +1,20 @@
+[
+    {
+      "image": "../images/med1.png",
+      "title": "Gokulan Pharmacy",
+      "subTitle": "Get all the Medicines in one store",
+      "interval": 1500
+    },
+    {
+      "image": "../images/med2.png",
+      "title": "Gokulan Pharmacy",
+      "subTitle": "Get all the Medicines in one store",
+      "interval": 500
+    },
+    {
+      "image": "../images/med3.png",
+      "title": "Gokulan Pharmacy",
+      "subTitle": "Get all the Medicines in one store",
+      "interval": 2500
+    }
+  ]
